@@ -16,10 +16,10 @@ We welcome contributions from everyone! Here are a few ways you can get started:
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us at [📧 your email address](mailto:devxquad.info@gmail.com).
+If you have any questions or need further assistance, feel free to reach out to us at our [📧 Gmail](mailto:devxquad.info@gmail.com).
 
 Thank you for being part of our community! We look forward to working with you.
 
 ---
 
-*This README was generated with ❤️ by DevXquad(https://github.com/devxquadgit)*
+*This README was generated with ❤️ by [DevXquad](https://github.com/devxquadgit)*
