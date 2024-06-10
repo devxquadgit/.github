@@ -43,7 +43,7 @@ Feel free to suggest additional commit message types if you think they are neces
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us at our [📧 Gmail](mailto:devxquad.info@gmail.com).
+If you have any questions or need further assistance, feel free to reach out to us at our [📧 Gmail](mailto:devxquad@gmail.com).
 
 Thank you for being part of our community! We look forward to working with you.
 
