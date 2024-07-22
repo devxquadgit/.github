@@ -1,4 +1,4 @@
-# 🎉 Welcome to DevXquad's First Repository! 🎉
+# 🎉 Welcome to DevXquad's Repository! 🎉
 
 Hello and welcome! We're excited to have you here. This repository marks the beginning of our journey, and we are thrilled to have contributors like you join us.
 
